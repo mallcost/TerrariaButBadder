@@ -20,7 +20,7 @@
     "DyeTraderSpecialText":{
         "HasPlant_0":"That's great, my dear, you've brought me the best, most colorful and charming examples in the world. In return, you can buy this special bottle of color.",
         "HasPlant_1":"They have beautiful and rare flowers ... Isn't that true? Get special colors, man!",
-        "HasPlant_2":"All right, buddy! As a good example of this, I can mix the best colors I've seen in worldName! Draw this bottle that you can make now!",
+        "HasPlant_2":"All right, buddy! As a good example of this, I can mix the best colors I've seen in {WorldName}! Draw this bottle that you can make now!",
         "NoPlant_0":"No, no, it won't work. There is no point in having money, you need to exchange with me a rare example of plants!",
         "NoPlant_1":"You think you're going to steal it. I don't believe it. I'll take this special bottle in exchange for rare flowers!",
         "NoPlant_2":"The colorful bottles? Sorry dear friend, this is not for sale. I only accept the exchange of colors with rare plants!",
@@ -155,13 +155,13 @@
         "Chatter_10":"Do you think there is another weapon in punk simathin?",
         "Chatter_11":"It is natural that there are many accidents.",
         "Chatter_12":"I don't usually like duct tape, but it doesn't seem to be bad.",
-        "Chatter_13":"Have you seen a man in the devil's tree?",
-        "Chatter_14":"It is very quiet.",
-        "Chatter_15":"{?! Contact us today and finish your work.",
-        "Chatter_16":"{?",
-        "Chatter_17":"{?",
-        "Chatter_18":"{? Tough state, I know Lavdoreman who wants a prison stone.",
-        "Chatter_19":"{?",
+        "Chatter_13":"{?Day}Did anyone see where the devil went to the tree?",
+        "Chatter_14":"{?!Day}It's quiet here and very quiet.",
+        "Chatter_15":"{?!Day} Contact us today and finish your work.",
+        "Chatter_16":"{?BloodMoon}You know where I am, the bloody moon is just an excuse to break my heart.",
+        "Chatter_17":"{?MoonLordDefeated}Moon Lord, you mean the Lord of the Abyss?",
+        "Chatter_18":"{?HardMode}I know a lava soloist who loves rock in hell.",
+        "Chatter_19":"{?Homeless}It's a good place to shop.",
         "Chatter_2":"They say he's strong, and I know how he feels. Let's see if you're real.",
         "Chatter_3":"In my hometown, I only drink carrot juice drinks.",
         "Chatter_4":"It's better than dreaming all day.",
@@ -169,7 +169,7 @@
         "Chatter_6":"What am I doing here...",
         "Chatter_7":"It's always difficult, as opposed to a little luck, you can go a long way ...",
         "Chatter_8":"Do you see mmbory here?",
-        "Chatter_9":"The dryer looks good."
+        "Chatter_9":"The {Dryad} looks good."
     },
     "BartenderHelpText":{
         "Help_1":"The first thing you need to know is that you want to sell some defensive tools if you have some guard medals!",
