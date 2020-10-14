@@ -859,7 +859,7 @@
 		"EmpressBlade": "Terraprisma",
 		"OnFire3": "Hellfire",
 		"Frostburn2": "Frostbite",
-		"FlinxMinion": "Flinx",
+		"FlinxMinion": "Flinx"
 		
 
 	},
@@ -1181,7 +1181,7 @@
 		"EmpressBlade": "The Blades of the Empress will fight for you",
 		"Frostburn2": "It's either really hot or really cold. Either way it REALLY hurts",
 		"OnFire3": "Slowly losing life",
-		"FlinxMinion": "The snow flinx will fight for you",
+		"FlinxMinion": "The snow flinx will fight for you"
 
 	},
 	"ArmorSetBonus": {
@@ -1247,7 +1247,7 @@
 		"CrystalNinja": "Allows the ability to dash\n10% increased damage and critical strike chance",
 		"Cactus": "Attackers take damage from the cactus spines",
 		"Gladiator": "Grants immunity to knockback",
-		"ObsidianOutlaw": "Increases whip range and speed by 50%,\nIncreases minion damage by 25%",
+		"ObsidianOutlaw": "Increases whip range and speed by 50%,\nIncreases minion damage by 25%"
 	},
 	"Bestiary_Biomes": {
 		"Surface": "Surface",
@@ -1291,7 +1291,7 @@
 		"HallowIce": "Hallow Ice",
 		"CrimsonIce": "Crimson Ice",
 		"Sky": "Sky",
-		"CrimsonDesert": "Crimson Desert",
+		"CrimsonDesert": "Crimson Desert"
 	},
 	"Bestiary_Invasions": {
 		"Goblins": "Goblin Invasion",
@@ -1304,7 +1304,7 @@
 	},
 	"Bestiary_Times": {
 		"DayTime": "Daytime",
-		"NightTime": "Nighttime",
+		"NightTime": "Nighttime"
 	},
 	"Bestiary_Events": {
 		"SlimeRain": "Slime Rain",
@@ -1344,7 +1344,7 @@
 		"Sort_Defense": "Defense",
 		"Sort_Coins": "Coins",
 		"Sort_HitPoints": "HP",
-		"PercentCollected": "{Percent} Collected",
+		"PercentCollected": "{Percent} Collected"
 	},
 	"Bestiary_ItemDropConditions": {
         "PirateMap": "Drops in the Hardmode Ocean",
@@ -1446,7 +1446,7 @@
 		"biome_CrimsonIce": "These bitterly cold caverns of ice, saturated with the blood of Crimson, host a new variety of menacing frozen fiends.",
 		"biome_Sky": "It is rumored that there is a land far above the clouds, where ancient treasures are guarded by powerful winged creatures.",
 		"biome_DayTime": "After 4:30am, the sun rises in the sky and the most dangerous of beings flee from the light. It's a great time to explore!",
-		"biome_NightTime": "After 7:30pm, the moon rises in the sky. All manner of evil things, living and dead, roam the lands in the dark.",
+		"biome_NightTime": "After 7:30pm, the moon rises in the sky. All manner of evil things, living and dead, roam the lands in the dark."
 
 	},
 	"CommonBestiaryFlavor": {
@@ -1485,7 +1485,7 @@
 		"Sandshark": "In ancient times, a saltwater river once ran through the desert. These powerful creatures evolved to survive in the now dry sand.",
 		"Lamia": "By the time glowing red eyes appear in the darkness of the desert caves, it is already too late. The lamias have found their prey.",
 		"GemSquirrel": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
-		"GemBunny": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+		"GemBunny": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance."
 
 	},
 	"Bestiary_FlavorText": {
@@ -2032,7 +2032,7 @@
 		"npc_QueenSlimeMinionPurple": "Crystal slimes on the purple spectrum grow wings much like their royal creator, becoming aerial threats.",
 		"npc_EmpressButterfly": "Should one of these luminescent beings perish in the chaos of night, a sleeping tyrant is rumored to violently awaken.",
 		"npc_TorchGod": "An unseen deity responsible for a torch's eternal flicker, however easily angered by the unsightly, ungrateful abuse of torch placement.",
-		"npc_Princess": "Shy and innocent, this happy young lady sees the positive in everything, and everybody. She appreciates all of her subjects, from all walks of life.",
+		"npc_Princess": "Shy and innocent, this happy young lady sees the positive in everything, and everybody. She appreciates all of her subjects, from all walks of life."
 	},
 		"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "Researching <item name> will consume it",
