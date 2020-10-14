@@ -1,1 +1,233 @@
-{"DryadSpecialText":{"WorldStatusAll":"%{0} rot {3} red{1} {2}.","WorldStatusHallowCorrupt":"{1}% of the {0} population {2} corrupt.","WorldDescriptionGrim":"It's a very difficult situation.","WorldDescriptionWork":"I've got a lot of work to do.","WorldDescriptionClose":"If you do, you do.","WorldStatusHallowCrimson":"One {0} {1} is sacred, {2} percent red.","WorldStatusCorruptCrimson":"{0}% {1}% are corrupt countries, {2}% are red.","WorldStatusCorrupt":"About one percent {0} {1} corrupt.","WorldStatusCrimson":"{0} {1} population is scarlet.","WorldStatusHallow":"{0}% of the city's population {1}.","WorldStatusPure":"{0} clean. Good!","WorldDescriptionBalanced":"The world is in balance.","WorldDescriptionFairyTale":"We live in a fairy tale.","Party":"I think we can celebrate the victories so far.","AfterDD2Tier1":"When I was in Ionia, I felt cut off on behalf of the world.","AfterDD2Tier2":"When I arrived in the corrupt country of Etnia, he tried to control me, but instead I used my powers against the Demon Army (X)!"},"DyeTraderSpecialText":{"HasPlant_0":"That's great, my dear, you've brought me the best, most colorful and charming examples in the world. In return, you can buy this special bottle of color.","HasPlant_1":"They have beautiful and rare flowers ... Isn't that true? Get special colors, man!","HasPlant_2":"All right, buddy! As a good example of this, I can mix the best colors I've seen in worldName! Draw this bottle that you can make now!","NoPlant_0":"No, no, it won't work. There is no point in having money, you need to exchange with me a rare example of plants!","NoPlant_1":"You think you're going to steal it. I don't believe it. I'll take this special bottle in exchange for rare flowers!","NoPlant_2":"The colorful bottles? Sorry dear friend, this is not for sale. I only accept the exchange of colors with rare plants!","Party":"I love parties, black and happy people everywhere."},"GuideSpecialText":{"Party":"Haven't you been to the party? Maybe you want to see other people. Sometimes people bring special festive gifts."},"MerchantSpecialText":{"Party":"Do you know how to go back to a party at first sight? Especially from me I buy gifts for others."},"GoblinTinkererSpecialText":{"Party":"Javalin's party is about the same as celebrating humanity. There's a game like Blame Humanity. I never play this game at the party."},"WitchDoctorSpecialText":{"Party":"I want to see you celebrate.","AfterDD2Tier1":"I feel like a dark witch in heaven, unfortunately they are our enemies and I would like to learn from them."},"ClothierSpecialText":{"Party":"She told me to leave the past for fun."},"TravellingMerchantSpecialText":{"Party":"Many people say that the event brings colorful thoughts. So buy something to make your memory more colorful!"},"MechanicSpecialText":{"Party":"Want to turn light into a cake into a lamp?"},"BartenderSpecialText":{"AfterDD2Tier1":"You did a great job beating the army!","AfterDD2Tier2":"Satan's army is stronger, but you're still pushing them! But I don't think it will stop easily.","AfterDD2Tier3":"Do you put the whole army in a desperate position first?","BeforeDD2Tier1":"We need to give the army some colors to see. If you want to know more about Ini Crystal, ask me.","FirstHelp":"No one can win a safety medal! You can buy me my protective accessories, but you can only buy them as safety medals!","FirstMeeting":"ok? How do I get here? The last thing I remember is there's a door in front of me..."},"PartyGirlSpecialText":{"Party_1":"Very good? It's special not to fool you these days! It's party time! Then it's party time!","Party_2":"My happiness has finally arrived!","AfterDD2Tier1":"Have you ever seen a kaa?"},"PirateSpecialText":{"Party":"After eating this cake, you can call me \"whitebeard.\""},"TruffleSpecialText":{"Party":"I tried to invite everyone to a party, but they weren't mushrooms."},"NurseSpecialText":{"Party":"No, I'm not going to tell you how many candles I have in my cake."},"WizardSpecialText":{"Party":"Of course I had a big party.","AfterDD2Tier1":"I have seen such a tradition before, but he went."},"SteampunkerSpecialText":{"Party":"I put a fireplace in the dough because everyone said they liked the cake."},"CyborgSpecialText":{"Party":"This party can be crazy, even with screws!"},"DemolitionistSpecialText":{"Party":"I have to be careful today.","AfterDD2Start":"I don't know why I can't blow up the door."},"ArmsDealerSpecialText":{"Party":"A party is a good way to get rid of bullets."},"StylistSpecialText":{"Party":"I have a special hairstyle today, but to be honest, I want to hit the balls with scissors."},"PainterSpecialText":{"Party":"I tried to organize a paintball contest, but everyone wanted more food and decorations."},"AnglerSpecialText":{"Party":"I said I liked diapers because I was a kid? Well, you're right, start a party!"},"AnglerQuestText":{"NoQuest_1":"Now there are no tasks to assign.","NoQuest_2":"You made me happy today.","NoQuest_3":"You're ready, and the big cornerman's picking you up!","NoQuest_4":"Fish every day, please go!","NoQuest_5":"The last month you gave me didn't help much.","TurnIn_1":"- No, no, no, no, no, no, no, no, no, no, I want to thank you for a month.","TurnIn_2":"I understand that. Everything went according to plan!","TurnIn_3":"They cope well with the flowing resin! Come down with you now!","TurnIn_4":"Hahahaha! You are! It doesn't hurt. You're boring.","TurnIn_5":"Wow!. I finished the job and survived.","Quest_Batfish":"Now, fish!\n\n(fishing camps: underground caves and caves)","Quest_BumblebeeTuna":"There are many strange light creatures in worldname underground forests! For example, I saw this fish as a big donkey fish! I'm allergic to deterrence, so why do I have to take it myself?\n\n(Entry point: Honey)","Quest_Catfish":"Finally I found a forest cat that loves water, I hope it is in my hands, you are in a hurry!\n\n(Recovery line: forest area)","Quest_Cloudfish":"Rumor has it that there are many islands floating in the sky and there are many treasures on the island! But who cares, interestingly, clouds sometimes create lakes and lakes, fish roam clouds! I want to try it, so it's best for me to get it!\n\n(Photo: Tianhu)","Quest_Cursedfish":"Fish swim in the deepest waters of a corrupt country! It is said that flames can not be lost, even with water and can burn forever. Have fun with such a fish!\n\n(Prisoner: Country of corruption)","Quest_Dirtfish":"Just as you fish for big fish, the Jungle Lake zombie talks is not only fun, but also \"wild\" fish slime!\n\n(Fishing point: roof, roof, cave)","Quest_DynamiteFish":"Experts blew up the mine when it lost a group of mining pipes in a lake in the forest. There is a lot of dynamite. Apparently, when this pile of explosives comes out of the propeller, you start swimming! I don't know where he made the explosive, but this package must have been wrong. Don't ask why...\n\n(Recording location: level)","Quest_EaterofPlankton":"You're afraid to look for fish. A rotten fish that devours the world and is hit by a strange wreck!\n\n(Location: Bad country)","Quest_FallenStarfish":"I like to collect bright gold stars to bump into the sky! I'd rather fall in love with someone, but... But.... My favorite is whether the stars are placed on a forest lake and put them in cocks! The fish is amazing and you are alone, understand me!\n\n(Photo: Tianhu)","Quest_TheFishofCthulu":"Apparently, sometimes the eyes of the devil can exist on the ground with water. They can't fly, but they can swim. When someone finds out in the bathroom, I want to know what it's like! You're giving me one!\n\n(Place of recording: Sky and surface)","Quest_Fishotron":"I don't know what's worse: a skeleton fish or a long skeletal fish. This toulon fish hidden in a cave scares me! I believe in the life of an old man in prison! I'il give you the courage to get it!\n\n(Arrest: Cave)","Quest_Harpyfish":"When I slept in a lake in the mountains, the fish fell on me. It has the face and wings of a woman! I think I'm stronger than him. Come on, he's making me terrified and paying me!\n\n(Recording location: Tianhu and surface)","Quest_Hungerfish":"It's a hungry spirit, formed by a wall of flesh and bone floating like a fish in hell, and it's very disgusting, but I want it now!\n\n(Registration location: Cave)","Quest_Ichorfish":"And? Some creatures do it in another velvet. I heard a pool of yellow fish chains and then I started swimming, it's weird! Take one, put him in the bathroom, Daley!\n\n(Location: Scarlett Land)","Quest_Jewelfish":"I'll be lucky soon!\n\n(Captive: Underground and Cave)","Quest_MirageFish":"You will find interesting animals in depth in the Holy Land!\n\n(Place of abduction: Holy Land)","Quest_MutantFlinxfin":"White-brown, hairy, living in a frozen underground lake, what fish? Mutant Fish Flynn! I'm serious, there's a mutant fish, Flynn, that's better suited to aquatic life! I hope you'll adapt to my aquarium.\n\n(Firing position: Underground)","Quest_Pengfish":"It's a whale!\n\n(Work: Tundra)","Quest_Pixiefish":"There is a very rare goat that grows too many wings so as not to fly! Swimming with fish in Lake Bluegrass. My aquarium needs a lamp, so take the barbarian and give it to me!\n\n(Abduction site: sacred ground)","Quest_Spiderfish":"I see a fish with its limbs. She took it from me, and when I got it, he died.\n\n(Occupied Zone: Underground Cave)","Quest_UnicornFish":"Unicorn and good rainbows! Seriously, I saw a nosophica in a sacred lake!\n\n(Commitment status: Holy Land)","Quest_GuideVoodooFish":"Demon hell loves voodoo dolls, but I think there's a doll that hides a lot of magic! It turns into a fish and can be thrown at itself. I told you to go to hell and give me one! If that were the case, I would cook the lava carefully because he would burn you so I wouldn't come back!\n\n(Stop: Cave)","Quest_Wyverntail":"I know something about you. What you don't know! A monster flies in the stars. I didn't think about it! It's called the Flying Dragon! But you know that, don't you? You don't know they were born and given the way they are! So I'm really like... Like a frog! Here's one.\n\n(Removal website: Tianhu)","Quest_ZombieFish":"Can you believe it? I'm a dead fish in the woods at night! Then he wants to eat me, throw it away, turn my head and order! Put it in someone else's tune and tell you what's going on to recover your fish.\n\n(Location of abduction: superficial)","Quest_AmanitaFungifin":"I found a great place with wonderful shiny mushrooms!\n\n(Location: Bright mushroom)","Quest_Angelfish":"Did you know that many magical islands float in the air? I'm sure! They said angels live in heaven. I'm sure you'll give me one!\n\n(Arrest page: Tiano)","Quest_BloodyManowar":"Five! Away from me, I had a bloodied jellyfish.\n\n(Place: Scarlet Lands)","Quest_Bonefish":"When I see fish bones floating in the groundwater, I usually don't care, but this fish bone swims! Do you think there's a human skull in the name of the world? Let's put him on someone else's bed.\n\n(Place of detention: underground and cave)","Quest_Bunnyfish":"I hunt in the woods, don't I? You know what? The goer jumped with me! Then one sign, the other ... Suddenly you're surrounded by rabbits! I also had a dive in the water, but I had my feet! I'm surprised he fell off the chair, afraid of all the rabbits! I want a rabbit like hay, so it's better for me.\n\n(Stop: Surface)","Quest_CapnTunabeard":"Hello my dear friend! There was a pirate captain with a fish called Captain Tuna, but he fell into the water in a big storm!\n\n(Registration site: Ocean)","Quest_Clownfish":"I saw this bright orange fish in the sea swimming in anger, as if I were looking lost to the relatives of the children! Take it and give it to me and it will look diggy swimming!\n\n(Location: Ocean)","Quest_DemonicHellfish":"I was told that the moon was invented by the evil king, and if it had one from me, I had a great crown!\n\n(Abduction Location: Cave)","Quest_Derpfish":"Bouncing off in the jungle, this beast is the scariest monster I've ever seen!\n\n(Location: Jungle Surface)","Quest_Fishron":"There's a legendary creature called Dragonfish Pig! Some are pigs, others are dragons, others are moons! I hear you've crossed the coldest underground lake in the world, so I don't want to go there, so you have to take it and take it.\n\n(Occupied area: Tundra Metro)","Quest_InfectedScabbardfish":"A long fish, like a sword, swims in the dark waters of a corrupt country! It looks abanosa, so no kidding! That's right, that's right.\n\n(Place of Arrest: Land of Corruption)","Quest_Mudfish":"Watch your feet walking in the forest! To? No, don't be afraid to relax around the sirens. I'm afraid you're looking for mud, my beloved mother! I also hope one for me as a pet!\n\n(Place of purchase: Forest)","Quest_Slimefish":"I'm a little healthy and nice guy in the woods! I don't want to swim with zom.\n\n(Storage location: anywhere)","Quest_TropicalBarracuda":"Cannibals and sharks are ugly! Bad! Do you know what I'm going to do? By the way, I pay 2 platinum to watch the show. But in fact, you must have one. Please give it to me before you bite your face!\n\n(Re-use location: Jungle area)","Quest_TundraTrout":"Do you know why the lake isn't tired on the surface of the snowy fields? But the fish knows!\n\n(Recorded location: Tounda surface)"},"AnglerChatter":{"Chatter_1":"Can you sell me malt?"},"BartenderChatter":{"Chatter_1":"I know how to cure your pain. Accept? What happened, Malzwin? Right?","Chatter_10":"Do you think there is another weapon in punk simathin?","Chatter_11":"It is natural that there are many accidents.","Chatter_12":"I don't usually like duct tape, but it doesn't seem to be bad.","Chatter_13":"Have you seen a man in the devil's tree?","Chatter_14":"It is very quiet.","Chatter_15":"{?! Contact us today and finish your work.","Chatter_16":"{?","Chatter_17":"{?","Chatter_18":"{? Tough state, I know Lavdoreman who wants a prison stone.","Chatter_19":"{?","Chatter_2":"They say he's strong, and I know how he feels. Let's see if you're real.","Chatter_3":"In my hometown, I only drink carrot juice drinks.","Chatter_4":"It's better than dreaming all day.","Chatter_5":"If he was born better than anyone, life is a problem.","Chatter_6":"What am I doing here...","Chatter_7":"It's always difficult, as opposed to a little luck, you can go a long way ...","Chatter_8":"Do you see mmbory here?","Chatter_9":"The dryer looks good."},"BartenderHelpText":{"Help_1":"The first thing you need to know is that you want to sell some defensive tools if you have some guard medals!","Help_10":"If you can repel the invasion, you get some safety medals, give me safety medals and buy more scenes and other special prizes!","Help_11":"I've also heard rumors that if you defeat the army, the energy of these devices could be clearer. Maybe you can use it at any time!","Help_2":"These accessories can be used for protective equipment and tricks. Consume the magic of heaven, a special act that will be abandoned only by members of the Evil Army S!","Help_3":"The challenge of the New York Army is very simple. Ethnic crystal energy is nearby and can be used to attract it.","Help_4":"To set up national crystals, you need to buy Etnia crystals and put them on paper. By the way, you can buy them for me!","Help_5":"You need to put the base of ethinium crystals in a very bright, flat area. Many walls and things can be difficult to maintain!","Help_6":"Get support, interact with support and get ready for battle on Crystal Itania!","Help_7":"Of course, you can't let the devil's army destroy the Crystal of Etna! This will have serious consequences for my home, for The World of Ania!","Help_8":"You can spend 10 hours with the magic of heaven to do before. When they are created, the people's decisions reveal the magic of paradise. Otherwise, you have to defeat the enemy to get more magic in the sky.","Help_9":"These 4tifys should use it to fight you and many waves of invaders trying to destroy ythna crystals!"},"BartenderNames":{"Name_1":"Ted.","Name_10":"Jackock, what's wrong?","Name_11":"Island.","Name_12":"Driscoll.","Name_13":"Ian Meson (translator)","Name_14":"Smith","Name_15":"Danny Mo.","Name_16":"paddy .","Name_2":"Mr. Bakeb, what's wrong with the woman?","Name_3":"Jerry.","Name_4":"Bill.","Name_5":"Ernest, what's that?","Name_6":"William.","Name_7":"Dell.","Name_8":"Blue.","Name_9":"M."},"CyborgChatter":{"Chatter_1":"The waiter said I made him remember the EV2. Maybe I should see him."},"GoblinTinkererChatter":{"Chatter_1":"The rack in this sky is quite different from my people. They're a bunch of healthy men, but that doesn't mean my people are much better."},"GuideHelpText":{"Help_1063":"I usually try to tell you all about the devil's army, but I have to ask this waiter for this information."},"MechanicChatter":{"Chatter_1":"The waiter told me to drink juice and I put it in a box and told him to give it to me."},"NurseChatter":{"Chatter_1":"I ordered wine but the waiter brought me Mipig inside the bear."},"PirateChatter":{"Chatter_1":"It's time for the bar owner to come early!"},"StylistChatter":{"Chatter_1":"I give the bar a free haircut, but she can shave her lungs, I think, to reject her!"},"TownNPCHousingFailureReasons":{"HoleInWallIsTooBig":"There is no wall in the room.","RoomCheckStartedInASolidTile":"It's solid matter!","RoomIsTooBig":"This room is too big.","RoomIsTooSmall":"This room is too small.","TooCloseToWorldEdge":"We have to send a better message about this!!!"}}
+{
+    "DryadSpecialText":{
+        "WorldStatusAll":"%{0} rot {3} red{1} {2}.",
+        "WorldStatusHallowCorrupt":"{1}% of the {0} population {2} corrupt.",
+        "WorldDescriptionGrim":"It's a very difficult situation.",
+        "WorldDescriptionWork":"I've got a lot of work to do.",
+        "WorldDescriptionClose":"If you do, you do.",
+        "WorldStatusHallowCrimson":"One {0} {1} is sacred, {2} percent red.",
+        "WorldStatusCorruptCrimson":"{0}% {1}% are corrupt countries, {2}% are red.",
+        "WorldStatusCorrupt":"About one percent {0} {1} corrupt.",
+        "WorldStatusCrimson":"{0} {1} population is scarlet.",
+        "WorldStatusHallow":"{0}% of the city's population {1}.",
+        "WorldStatusPure":"{0} clean. Good!",
+        "WorldDescriptionBalanced":"The world is in balance.",
+        "WorldDescriptionFairyTale":"We live in a fairy tale.",
+        "Party":"I think we can celebrate the victories so far.",
+        "AfterDD2Tier1":"When I was in Ionia, I felt cut off on behalf of the world.",
+        "AfterDD2Tier2":"When I arrived in the corrupt country of Etnia, he tried to control me, but instead I used my powers against the Demon Army (X)!"
+    },
+    "DyeTraderSpecialText":{
+        "HasPlant_0":"That's great, my dear, you've brought me the best, most colorful and charming examples in the world. In return, you can buy this special bottle of color.",
+        "HasPlant_1":"They have beautiful and rare flowers ... Isn't that true? Get special colors, man!",
+        "HasPlant_2":"All right, buddy! As a good example of this, I can mix the best colors I've seen in worldName! Draw this bottle that you can make now!",
+        "NoPlant_0":"No, no, it won't work. There is no point in having money, you need to exchange with me a rare example of plants!",
+        "NoPlant_1":"You think you're going to steal it. I don't believe it. I'll take this special bottle in exchange for rare flowers!",
+        "NoPlant_2":"The colorful bottles? Sorry dear friend, this is not for sale. I only accept the exchange of colors with rare plants!",
+        "Party":"I love parties, black and happy people everywhere."
+    },
+    "GuideSpecialText":{
+        "Party":"Haven't you been to the party? Maybe you want to see other people. Sometimes people bring special festive gifts."
+    },
+    "MerchantSpecialText":{
+        "Party":"Do you know how to go back to a party at first sight? Especially from me I buy gifts for others."
+    },
+    "GoblinTinkererSpecialText":{
+        "Party":"Javalin's party is about the same as celebrating humanity. There's a game like Blame Humanity. I never play this game at the party."
+    },
+    "WitchDoctorSpecialText":{
+        "Party":"I want to see you celebrate.",
+        "AfterDD2Tier1":"I feel like a dark witch in heaven, unfortunately they are our enemies and I would like to learn from them."
+    },
+    "ClothierSpecialText":{
+        "Party":"She told me to leave the past for fun."
+    },
+    "TravellingMerchantSpecialText":{
+        "Party":"Many people say that the event brings colorful thoughts. So buy something to make your memory more colorful!"
+    },
+    "MechanicSpecialText":{
+        "Party":"Want to turn light into a cake into a lamp?"
+    },
+    "BartenderSpecialText":{
+        "AfterDD2Tier1":"You did a great job beating the army!",
+        "AfterDD2Tier2":"Satan's army is stronger, but you're still pushing them! But I don't think it will stop easily.",
+        "AfterDD2Tier3":"Do you put the whole army in a desperate position first?",
+        "BeforeDD2Tier1":"We need to give the army some colors to see. If you want to know more about Ini Crystal, ask me.",
+        "FirstHelp":"No one can win a safety medal! You can buy me my protective accessories, but you can only buy them as safety medals!",
+        "FirstMeeting":"ok? How do I get here? The last thing I remember is there's a door in front of me..."
+    },
+    "PartyGirlSpecialText":{
+        "Party_1":"Very good? It's special not to fool you these days! It's party time! Then it's party time!",
+        "Party_2":"My happiness has finally arrived!",
+        "AfterDD2Tier1":"Have you ever seen a kaa?"
+    },
+    "PirateSpecialText":{
+        "Party":"After eating this cake, you can call me \"whitebeard.\""
+    },
+    "TruffleSpecialText":{
+        "Party":"I tried to invite everyone to a party, but they weren't mushrooms."
+    },
+    "NurseSpecialText":{
+        "Party":"No, I'm not going to tell you how many candles I have in my cake."
+    },
+    "WizardSpecialText":{
+        "Party":"Of course I had a big party.",
+        "AfterDD2Tier1":"I have seen such a tradition before, but he went."
+    },
+    "SteampunkerSpecialText":{
+        "Party":"I put a fireplace in the dough because everyone said they liked the cake."
+    },
+    "CyborgSpecialText":{
+        "Party":"This party can be crazy, even with screws!"
+    },
+    "DemolitionistSpecialText":{
+        "Party":"I have to be careful today.",
+        "AfterDD2Start":"I don't know why I can't blow up the door."
+    },
+    "ArmsDealerSpecialText":{
+        "Party":"A party is a good way to get rid of bullets."
+    },
+    "StylistSpecialText":{
+        "Party":"I have a special hairstyle today, but to be honest, I want to hit the balls with scissors."
+    },
+    "PainterSpecialText":{
+        "Party":"I tried to organize a paintball contest, but everyone wanted more food and decorations."
+    },
+    "AnglerSpecialText":{
+        "Party":"I said I liked diapers because I was a kid? Well, you're right, start a party!"
+    },
+    "AnglerQuestText":{
+        "NoQuest_1":"Now there are no tasks to assign.",
+        "NoQuest_2":"You made me happy today.",
+        "NoQuest_3":"You're ready, and the big cornerman's picking you up!",
+        "NoQuest_4":"Fish every day, please go!",
+        "NoQuest_5":"The last month you gave me didn't help much.",
+        "TurnIn_1":"- No, no, no, no, no, no, no, no, no, no, I want to thank you for a month.",
+        "TurnIn_2":"I understand that. Everything went according to plan!",
+        "TurnIn_3":"They cope well with the flowing resin! Come down with you now!",
+        "TurnIn_4":"Hahahaha! You are! It doesn't hurt. You're boring.",
+        "TurnIn_5":"Wow!. I finished the job and survived.",
+        "Quest_Batfish":"Now, fish!\n\n(fishing camps: underground caves and caves)",
+        "Quest_BumblebeeTuna":"There are many strange light creatures in worldname underground forests! For example, I saw this fish as a big donkey fish! I'm allergic to deterrence, so why do I have to take it myself?\n\n(Entry point: Honey)",
+        "Quest_Catfish":"Finally I found a forest cat that loves water, I hope it is in my hands, you are in a hurry!\n\n(Recovery line: forest area)",
+        "Quest_Cloudfish":"Rumor has it that there are many islands floating in the sky and there are many treasures on the island! But who cares, interestingly, clouds sometimes create lakes and lakes, fish roam clouds! I want to try it, so it's best for me to get it!\n\n(Photo: Tianhu)",
+        "Quest_Cursedfish":"Fish swim in the deepest waters of a corrupt country! It is said that flames can not be lost, even with water and can burn forever. Have fun with such a fish!\n\n(Prisoner: Country of corruption)",
+        "Quest_Dirtfish":"Just as you fish for big fish, the Jungle Lake zombie talks is not only fun, but also \"wild\" fish slime!\n\n(Fishing point: roof, roof, cave)",
+        "Quest_DynamiteFish":"Experts blew up the mine when it lost a group of mining pipes in a lake in the forest. There is a lot of dynamite. Apparently, when this pile of explosives comes out of the propeller, you start swimming! I don't know where he made the explosive, but this package must have been wrong. Don't ask why...\n\n(Recording location: level)",
+        "Quest_EaterofPlankton":"You're afraid to look for fish. A rotten fish that devours the world and is hit by a strange wreck!\n\n(Location: Bad country)",
+        "Quest_FallenStarfish":"I like to collect bright gold stars to bump into the sky! I'd rather fall in love with someone, but... But.... My favorite is whether the stars are placed on a forest lake and put them in cocks! The fish is amazing and you are alone, understand me!\n\n(Photo: Tianhu)",
+        "Quest_TheFishofCthulu":"Apparently, sometimes the eyes of the devil can exist on the ground with water. They can't fly, but they can swim. When someone finds out in the bathroom, I want to know what it's like! You're giving me one!\n\n(Place of recording: Sky and surface)",
+        "Quest_Fishotron":"I don't know what's worse: a skeleton fish or a long skeletal fish. This toulon fish hidden in a cave scares me! I believe in the life of an old man in prison! I'il give you the courage to get it!\n\n(Arrest: Cave)",
+        "Quest_Harpyfish":"When I slept in a lake in the mountains, the fish fell on me. It has the face and wings of a woman! I think I'm stronger than him. Come on, he's making me terrified and paying me!\n\n(Recording location: Tianhu and surface)",
+        "Quest_Hungerfish":"It's a hungry spirit, formed by a wall of flesh and bone floating like a fish in hell, and it's very disgusting, but I want it now!\n\n(Registration location: Cave)",
+        "Quest_Ichorfish":"And? Some creatures do it in another velvet. I heard a pool of yellow fish chains and then I started swimming, it's weird! Take one, put him in the bathroom, Daley!\n\n(Location: Scarlett Land)",
+        "Quest_Jewelfish":"I'll be lucky soon!\n\n(Captive: Underground and Cave)",
+        "Quest_MirageFish":"You will find interesting animals in depth in the Holy Land!\n\n(Place of abduction: Holy Land)",
+        "Quest_MutantFlinxfin":"White-brown, hairy, living in a frozen underground lake, what fish? Mutant Fish Flynn! I'm serious, there's a mutant fish, Flynn, that's better suited to aquatic life! I hope you'll adapt to my aquarium.\n\n(Firing position: Underground)",
+        "Quest_Pengfish":"It's a whale!\n\n(Work: Tundra)",
+        "Quest_Pixiefish":"There is a very rare goat that grows too many wings so as not to fly! Swimming with fish in Lake Bluegrass. My aquarium needs a lamp, so take the barbarian and give it to me!\n\n(Abduction site: sacred ground)",
+        "Quest_Spiderfish":"I see a fish with its limbs. She took it from me, and when I got it, he died.\n\n(Occupied Zone: Underground Cave)",
+        "Quest_UnicornFish":"Unicorn and good rainbows! Seriously, I saw a nosophica in a sacred lake!\n\n(Commitment status: Holy Land)",
+        "Quest_GuideVoodooFish":"Demon hell loves voodoo dolls, but I think there's a doll that hides a lot of magic! It turns into a fish and can be thrown at itself. I told you to go to hell and give me one! If that were the case, I would cook the lava carefully because he would burn you so I wouldn't come back!\n\n(Stop: Cave)",
+        "Quest_Wyverntail":"I know something about you. What you don't know! A monster flies in the stars. I didn't think about it! It's called the Flying Dragon! But you know that, don't you? You don't know they were born and given the way they are! So I'm really like... Like a frog! Here's one.\n\n(Removal website: Tianhu)",
+        "Quest_ZombieFish":"Can you believe it? I'm a dead fish in the woods at night! Then he wants to eat me, throw it away, turn my head and order! Put it in someone else's tune and tell you what's going on to recover your fish.\n\n(Location of abduction: superficial)",
+        "Quest_AmanitaFungifin":"I found a great place with wonderful shiny mushrooms!\n\n(Location: Bright mushroom)",
+        "Quest_Angelfish":"Did you know that many magical islands float in the air? I'm sure! They said angels live in heaven. I'm sure you'll give me one!\n\n(Arrest page: Tiano)",
+        "Quest_BloodyManowar":"Five! Away from me, I had a bloodied jellyfish.\n\n(Place: Scarlet Lands)",
+        "Quest_Bonefish":"When I see fish bones floating in the groundwater, I usually don't care, but this fish bone swims! Do you think there's a human skull in the name of the world? Let's put him on someone else's bed.\n\n(Place of detention: underground and cave)",
+        "Quest_Bunnyfish":"I hunt in the woods, don't I? You know what? The goer jumped with me! Then one sign, the other ... Suddenly you're surrounded by rabbits! I also had a dive in the water, but I had my feet! I'm surprised he fell off the chair, afraid of all the rabbits! I want a rabbit like hay, so it's better for me.\n\n(Stop: Surface)",
+        "Quest_CapnTunabeard":"Hello my dear friend! There was a pirate captain with a fish called Captain Tuna, but he fell into the water in a big storm!\n\n(Registration site: Ocean)",
+        "Quest_Clownfish":"I saw this bright orange fish in the sea swimming in anger, as if I were looking lost to the relatives of the children! Take it and give it to me and it will look diggy swimming!\n\n(Location: Ocean)",
+        "Quest_DemonicHellfish":"I was told that the moon was invented by the evil king, and if it had one from me, I had a great crown!\n\n(Abduction Location: Cave)",
+        "Quest_Derpfish":"Bouncing off in the jungle, this beast is the scariest monster I've ever seen!\n\n(Location: Jungle Surface)",
+        "Quest_Fishron":"There's a legendary creature called Dragonfish Pig! Some are pigs, others are dragons, others are moons! I hear you've crossed the coldest underground lake in the world, so I don't want to go there, so you have to take it and take it.\n\n(Occupied area: Tundra Metro)",
+        "Quest_InfectedScabbardfish":"A long fish, like a sword, swims in the dark waters of a corrupt country! It looks abanosa, so no kidding! That's right, that's right.\n\n(Place of Arrest: Land of Corruption)",
+        "Quest_Mudfish":"Watch your feet walking in the forest! To? No, don't be afraid to relax around the sirens. I'm afraid you're looking for mud, my beloved mother! I also hope one for me as a pet!\n\n(Place of purchase: Forest)",
+        "Quest_Slimefish":"I'm a little healthy and nice guy in the woods! I don't want to swim with zom.\n\n(Storage location: anywhere)",
+        "Quest_TropicalBarracuda":"Cannibals and sharks are ugly! Bad! Do you know what I'm going to do? By the way, I pay 2 platinum to watch the show. But in fact, you must have one. Please give it to me before you bite your face!\n\n(Re-use location: Jungle area)",
+        "Quest_TundraTrout":"Do you know why the lake isn't tired on the surface of the snowy fields? But the fish knows!\n\n(Recorded location: Tounda surface)"
+    },
+    "AnglerChatter":{
+        "Chatter_1":"Can you sell me malt?"
+    },
+    "BartenderChatter":{
+        "Chatter_1":"I know how to cure your pain. Accept? What happened, Malzwin? Right?",
+        "Chatter_10":"Do you think there is another weapon in punk simathin?",
+        "Chatter_11":"It is natural that there are many accidents.",
+        "Chatter_12":"I don't usually like duct tape, but it doesn't seem to be bad.",
+        "Chatter_13":"Have you seen a man in the devil's tree?",
+        "Chatter_14":"It is very quiet.",
+        "Chatter_15":"{?! Contact us today and finish your work.",
+        "Chatter_16":"{?",
+        "Chatter_17":"{?",
+        "Chatter_18":"{? Tough state, I know Lavdoreman who wants a prison stone.",
+        "Chatter_19":"{?",
+        "Chatter_2":"They say he's strong, and I know how he feels. Let's see if you're real.",
+        "Chatter_3":"In my hometown, I only drink carrot juice drinks.",
+        "Chatter_4":"It's better than dreaming all day.",
+        "Chatter_5":"If he was born better than anyone, life is a problem.",
+        "Chatter_6":"What am I doing here...",
+        "Chatter_7":"It's always difficult, as opposed to a little luck, you can go a long way ...",
+        "Chatter_8":"Do you see mmbory here?",
+        "Chatter_9":"The dryer looks good."
+    },
+    "BartenderHelpText":{
+        "Help_1":"The first thing you need to know is that you want to sell some defensive tools if you have some guard medals!",
+        "Help_10":"If you can repel the invasion, you get some safety medals, give me safety medals and buy more scenes and other special prizes!",
+        "Help_11":"I've also heard rumors that if you defeat the army, the energy of these devices could be clearer. Maybe you can use it at any time!",
+        "Help_2":"These accessories can be used for protective equipment and tricks. Consume the magic of heaven, a special act that will be abandoned only by members of the Evil Army S!",
+        "Help_3":"The challenge of the New York Army is very simple. Ethnic crystal energy is nearby and can be used to attract it.",
+        "Help_4":"To set up national crystals, you need to buy Etnia crystals and put them on paper. By the way, you can buy them for me!",
+        "Help_5":"You need to put the base of ethinium crystals in a very bright, flat area. Many walls and things can be difficult to maintain!",
+        "Help_6":"Get support, interact with support and get ready for battle on Crystal Itania!",
+        "Help_7":"Of course, you can't let the devil's army destroy the Crystal of Etna! This will have serious consequences for my home, for The World of Ania!",
+        "Help_8":"You can spend 10 hours with the magic of heaven to do before. When they are created, the people's decisions reveal the magic of paradise. Otherwise, you have to defeat the enemy to get more magic in the sky.",
+        "Help_9":"These 4tifys should use it to fight you and many waves of invaders trying to destroy ythna crystals!"
+    },
+    "BartenderNames":{
+        "Name_1":"Ted.",
+        "Name_10":"Jackock, what's wrong?",
+        "Name_11":"Island.",
+        "Name_12":"Driscoll.",
+        "Name_13":"Ian Meson (translator)",
+        "Name_14":"Smith",
+        "Name_15":"Danny Mo.",
+        "Name_16":"paddy .",
+        "Name_2":"Mr. Bakeb, what's wrong with the woman?",
+        "Name_3":"Jerry.",
+        "Name_4":"Bill.",
+        "Name_5":"Ernest, what's that?",
+        "Name_6":"William.",
+        "Name_7":"Dell.",
+        "Name_8":"Blue.",
+        "Name_9":"M."
+    },
+    "CyborgChatter":{
+        "Chatter_1":"The waiter said I made him remember the EV2. Maybe I should see him."
+    },
+    "GoblinTinkererChatter":{
+        "Chatter_1":"The rack in this sky is quite different from my people. They're a bunch of healthy men, but that doesn't mean my people are much better."
+    },
+    "GuideHelpText":{
+        "Help_1063":"I usually try to tell you all about the devil's army, but I have to ask this waiter for this information."
+    },
+    "MechanicChatter":{
+        "Chatter_1":"The waiter told me to drink juice and I put it in a box and told him to give it to me."
+    },
+    "NurseChatter":{
+        "Chatter_1":"I ordered wine but the waiter brought me Mipig inside the bear."
+    },
+    "PirateChatter":{
+        "Chatter_1":"It's time for the bar owner to come early!"
+    },
+    "StylistChatter":{
+        "Chatter_1":"I give the bar a free haircut, but she can shave her lungs, I think, to reject her!"
+    },
+    "TownNPCHousingFailureReasons":{
+        "HoleInWallIsTooBig":"There is no wall in the room.",
+        "RoomCheckStartedInASolidTile":"It's solid matter!",
+        "RoomIsTooBig":"This room is too big.",
+        "RoomIsTooSmall":"This room is too small.",
+        "TooCloseToWorldEdge":"We have to send a better message about this!!!"
+    }
+}
