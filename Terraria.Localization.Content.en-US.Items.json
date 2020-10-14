@@ -5234,7 +5234,7 @@
 		"PottedCrystalPlantTree": "Potted Crystal Tree",
 		"Princess64": "Princess 64",
 		"PaintingOfALass": "Painting of a Lass",
-		"DarkSideHallow": "Dark Side of the Hallow",
+		"DarkSideHallow": "Dark Side of the Hallow"
 	},
 	"ItemTooltip": {
 		"ShadowGreaves": "7% increased melee speed",
@@ -7250,6 +7250,6 @@
 		"BoneWhip": "7 summon tag damage\n{$CommonItemTooltip.Whips}\nPerforms better against multiple targets than most whips\n'This goes to eleven'",
 		"Princess64": "{$PaintingArtist.Lazure}",
 		"PaintingOfALass": "{$PaintingArtist.Lazure}",
-		"DarkSideHallow": "{$PaintingArtist.Lazure}",
+		"DarkSideHallow": "{$PaintingArtist.Lazure}"
 	}
 }
