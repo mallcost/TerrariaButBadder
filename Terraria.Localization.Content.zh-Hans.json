@@ -698,11 +698,11 @@
         "French":"French",
         "Spanish":"Spain",
         "Russian":"Question",
-        "Chinese":"Simplified Chinese.",
+        "Chinese":"Memes Are Here",
         "Portuguese":"Brasiliano, Portugal (Brazil, Portugal)",
         "Polish":"Polish"
     },
     "RandomWorldName_Composition":{
-        "6":"(Last) (Location)"
+        "6": "{Adjective} {Location}"
     }
 }
